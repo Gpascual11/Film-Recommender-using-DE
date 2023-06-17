@@ -1,0 +1,7 @@
+.github/
+.gradle/
+bin/
+build/
+movie_users_10_20.txt
+movie_users_20_100.txt
+movie_users_20_500.txt

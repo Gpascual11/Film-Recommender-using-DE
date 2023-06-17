@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestMultiLlistaFitxer2",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.TestMultiLlistaFitxer2",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AlgoritmePelis",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.AlgoritmePelis",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.Main",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "TestHashTitols",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.TestHashTitols",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "TestMultiLlistaColFil",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.TestMultiLlistaColFil",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "TestMultiLlistaFitxer",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.TestMultiLlistaFitxer",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "TestMultiLllistaMeu",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.TestMultiLllistaMeu",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "FileLoaderHashTitol",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.io.FileLoaderHashTitol",
+            "projectName": "activitat5-Gpascual11"
+        },
+        {
+            "type": "java",
+            "name": "FileLoaderMultillista",
+            "request": "launch",
+            "mainClass": "cat.urv.deim.io.FileLoaderMultillista",
+            "projectName": "activitat5-Gpascual11"
+        }
+    ]
+}
